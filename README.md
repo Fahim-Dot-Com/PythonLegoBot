@@ -1,7 +1,3 @@
-Got it 👍 Here’s a **README.md** you can include alongside your text-based LEGO chatbot project.
-
----
-
 # 🧩 LEGO Set Identifier Chatbot
 
 A simple Python chatbot that helps you identify LEGO sets by name or description.
@@ -102,4 +98,5 @@ You: exit
 
 ---
 
-Would you like to see more projects from me?
+Would you like to see more projects from me contact here!
+https://github.com/Fahim-Dot-Com
