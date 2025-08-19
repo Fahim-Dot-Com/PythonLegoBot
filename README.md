@@ -96,4 +96,4 @@ You: exit
 
 ---
 
-Would you like me to also make a **LICENSE.md** and a **requirements.txt** so you have the full open-source project structure ready?
+Would you like to see more projects from me?
