@@ -19,7 +19,13 @@ It uses the [Rebrickable API](https://rebrickable.com/api/) to search for matchi
 ---
 ## Example of Interaction
 Replit
+
 <img width="349" height="121" alt="image" src="https://github.com/user-attachments/assets/0f54846c-dcde-46bb-a02c-72d1776cde00" />
+
+Google Collabs
+
+
+<img width="512" height="151" alt="image" src="https://github.com/user-attachments/assets/fa708d54-233e-4e90-b8ed-5320a7d267b2" />
 
 
 ## 📦 Requirements
